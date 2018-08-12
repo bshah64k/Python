@@ -1,0 +1,10 @@
+
+This is a very interesting story of how we all think robotics ought to play up. Have you read about it ? Must have. 
+
+The long and the short of it is while some think this is sci-fi others view this as a vision people have about how humans will morph.
+
+But rather than debate the merits of it lets look at the story itself.
+
+Django is a morpged website that suddenly gets super powers when it is hacked by a nation state actor. The sad truth of hacking is no one imagined how a hacked website could potentially get super powers. While its goal was to combat evil hackers, it is another example of how giving anything, even a dumb website can be quite dangerous. Hell No! Dont ever do it. 
+
+Evil people gave it less than 99.99% chance anyone would even notice Django hacked. Really!! And then to see the wrath of Django first target the hackers, and then the rest of the world was of course beyond the imagination of anyone. And all because of $6.34 per month website no one really cared about. What is this world coming to ?
